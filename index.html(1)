@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <style>
 body {font-family: Verdana, sans-serif; font-size:0.8em;}
-headerm nav, section, article, footer
+headerm, nav, section, article, footer
 {border:1px solid gray; margin:5px; padding:8px;}
 section#displayArea { height:210px; }
 nav ul <margin:0; padding:0; }
